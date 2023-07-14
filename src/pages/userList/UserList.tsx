@@ -1,5 +1,5 @@
 import "./userList.css";
-import { DataGrid, GridColDef, GridValueGetterParams } from "@mui/x-data-grid";
+import { DataGrid, GridColDef } from "@mui/x-data-grid";
 import { DeleteOutline } from "@mui/icons-material";
 import { userRows } from "../../dummyData";
 import { Link } from "react-router-dom";
